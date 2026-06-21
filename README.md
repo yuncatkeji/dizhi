@@ -6,7 +6,7 @@
 
 ### 🌐 官方多入口分流通道
 
-为了保证您的网络稳定，我们提供了多条分流解析通道，所有通道均已接入 Cloudflare 高级防护及专线加速：
+为了保证您的网络稳定，我们提供了多条分流解析通道，所有通道均已接入高级防护及专线加速：
 
 * 🚀 **主官网入口**：[https://cloud.yuncat.top](https://cloud.yuncat.top) （首选推荐）
 * 🛡️ **备用官网入口**：[https://cloud.yuncat.vip](https://cloud.yuncat.vip) （主站网络波动时使用）
