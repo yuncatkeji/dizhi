@@ -8,7 +8,7 @@
 
 为了保证您的网络稳定，我们提供了多条分流解析通道，所有通道均已接入高级防护及专线加速：
 
-* 🚀 **主官网入口**：[https://cloud.yuncat.top](https://cloud.yuncat.top) （首选推荐）
+* 🚀 **主官网入口**：[https://cloud.yuncat.net](https://cloud.yuncat.net) （首选推荐）
 * 🛡️ **备用官网入口**：[https://cloud.yuncat.vip](https://cloud.yuncat.vip) （主站网络波动时使用）
 * ⚡ **高速专用通道**：[https://cloud.yuncat.de](https://cloud.yuncat.de) （极速测速分流入口）
 
@@ -17,5 +17,5 @@
 ### 📌 防失联小贴士
 
 1. **收藏本仓库**：点击页面右上角的 **`Star`** 按钮，后续可在您的 GitHub 收藏列表中直接找到我们。
-2. **紧急获取渠道**：如果您发现以上所有网页均无法打开，请随时发送邮件至 📬 **[email@yuncat.vip](mailto:email@yuncat.vip)**，系统将自动回复您最新的可用域名。
+2. **紧急获取渠道**：如果您发现以上所有网页均无法打开，请随时发送邮件至 📬 **[support@yuncat.net](mailto:support@yuncat.net)**，系统将自动回复您最新的可用域名。
 3. **免费试用**：云猫全线节点采用最新高抗封锁传输协议，新用户注册即可自动获得免费体验流量与时长，满意后再行订购。
